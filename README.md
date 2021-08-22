@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+#### I'm a Software engineer working in Minsk, Belarus.
+
+<!-- - 🏢 I'm currently working at **Some Development**-->
+- ⚙️ My tech stack is `php`, `golang`, `javascript`, `postgres`, `mysql`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 🌱 Perfectly know `docker`, `phpunit`
 <!--
-**leonardjke/leonardjke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
