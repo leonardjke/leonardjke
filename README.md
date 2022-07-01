@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Software engineer working in Minsk, Belarus.
+#### I'm a Software engineer working in Poznan, Poland.
 
 <!-- - 🏢 I'm currently working at **Some Development**-->
 - ⚙️ My tech stack is `php`, `golang`, `javascript`, `postgres`, `mysql`
